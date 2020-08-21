@@ -4,12 +4,12 @@ import UsersList from '../components/UsersList'
 
 const Users = () => {
   const USERS = [
-    {
-      id: 'u1',
-      name: 'Max Schwarz',
-      image: 'https://randomuser.me/api/portraits/women/62.jpg',
-      places: 3
-    }
+    // {
+    //   id: 'u1',
+    //   name: 'Max Schwarz',
+    //   image: 'https://randomuser.me/api/portraits/men/44.jpg',
+    //   places: 3
+    // }
   ]
 
   return <UsersList items={USERS} />
