@@ -9,27 +9,27 @@ const DUMMY_PLACES = [
     title: 'Empire State Building',
     description: 'One of the most famous sky scrapers in the world!',
     imageUrl:
-      'https://www.tripsavvy.com/thmb/sfY_yVsEJiGPdRo_dgYYq6pA74Y=/3435x2576/smart/filters:no_upscale()/empire-state-building-at-dusk-new-york-city-usa-668600131-590f0a5b5f9b5864701d53f4.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NYC_Empire_State_Building.jpg/640px-NYC_Empire_State_Building.jpg',
     address: '20 W 34th St, New York, NY 10001',
     location: {
       lat: 40.7484405,
-      lng: -73.9878584,
+      lng: -73.9878584
     },
-    creator: 'u1',
+    creator: 'u1'
   },
   {
     id: 'p2',
     title: 'Empire State Building',
     description: 'One of the most famous sky scrapers in the world!',
     imageUrl:
-      'https://www.tripsavvy.com/thmb/sfY_yVsEJiGPdRo_dgYYq6pA74Y=/3435x2576/smart/filters:no_upscale()/empire-state-building-at-dusk-new-york-city-usa-668600131-590f0a5b5f9b5864701d53f4.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NYC_Empire_State_Building.jpg/640px-NYC_Empire_State_Building.jpg',
     address: '20 W 34th St, New York, NY 10001',
     location: {
       lat: 40.7484405,
-      lng: -73.9878584,
+      lng: -73.9878584
     },
-    creator: 'u2',
-  },
+    creator: 'u2'
+  }
 ]
 
 const UserPlaces = () => {
