@@ -18,6 +18,8 @@
 
 .modal__header h2 {
   margin: 0.5rem;
+  font-weight: 100;
+  text-align: right;
 }
 
 .modal__content {
